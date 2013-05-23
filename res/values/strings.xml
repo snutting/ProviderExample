@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProviderExample</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_label">Title</string>
+    <string name="text_title_hint">Title...</string>
+    <string name="text_desc_label">Description</string>
+    <string name="text_desc_hint">Description...</string>
+    <string name="complete_label">Complete</string>
+
+</resources>
